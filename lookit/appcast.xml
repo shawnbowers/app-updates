@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!--
   Placeholder feed: valid, but advertises no versions, so Sparkle reads it as
   "you're up to date" instead of erroring on a 404.
@@ -7,11 +7,19 @@
   generate_appcast, which rebuilds the entire feed from the archives sitting
   alongside it in this directory.
 -->
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Lookit</title>
-    <link>https://shawnbowers.github.io/app-updates/lookit/appcast.xml</link>
-    <description>Updates for Lookit</description>
-    <language>en</language>
-  </channel>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Lookit</title>
+        <link>https://shawnbowers.github.io/app-updates/lookit/appcast.xml</link>
+        <description>Updates for Lookit</description>
+        <language>en</language>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 27 Jul 2026 23:17:19 -0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://shawnbowers.github.io/app-updates/lookit/Lookit-0.1.0.zip" length="1909335" type="application/octet-stream" sparkle:edSignature="EOHVqBARJoonbin19q7a8lMUEjDoURr0ZqbSj4IvBHfTAyud/KukIvGtcw6E2JYbpfbXnkTUeF3ipO/YUSMEBQ=="/>
+        </item>
+    </channel>
 </rss>
