@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Placeholder feed: valid, but advertises no versions, so Sparkle reads it as
+  "you're up to date" instead of erroring on a 404.
+
+  Do not hand-edit. scripts/release.sh regenerates this file with Sparkle's
+  generate_appcast, which rebuilds the entire feed from the archives sitting
+  alongside it in this directory.
+-->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Lookit</title>
+    <link>https://shawnbowers.github.io/app-updates/lookit/appcast.xml</link>
+    <description>Updates for Lookit</description>
+    <language>en</language>
+  </channel>
+</rss>
