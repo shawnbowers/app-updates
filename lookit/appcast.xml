@@ -14,6 +14,19 @@
         <description>Updates for Lookit</description>
         <language>en</language>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Fri, 21 Aug 2026 09:32:36 -0500</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://shawnbowers.github.io/app-updates/lookit/Lookit-0.3.1.zip" length="3924897" type="application/octet-stream" sparkle:edSignature="G6knowD4u6H9C04Xe68G03O4dbnC7J9uYyYBJILK6UmtQjfcyWeTtL2mw4R1WCN4RIwCeKLU9fqZtYsvlqDiDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://shawnbowers.github.io/app-updates/lookit/Lookit20-17.delta" sparkle:deltaFrom="17" length="129798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UBt6U/nW0rkZ13zQNAWtPV9HOD+cUvrowwjePH2qLcKQspD1qfeI//sxV0NLQ2Ujs+J9A1QZYBINwxHKS8onCQ=="/>
+                <enclosure url="https://shawnbowers.github.io/app-updates/lookit/Lookit20-10.delta" sparkle:deltaFrom="10" length="1464306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tQ1tTlMjV5DS4GZdSYXfktLH1YIEtlgjKy/qgveVGPkL5AbkYinIm7odveY0upS5WGKMrsb+9q6OjhEzHSk+Dw=="/>
+                <enclosure url="https://shawnbowers.github.io/app-updates/lookit/Lookit20-5.delta" sparkle:deltaFrom="5" length="1686758" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4XlRr4dNALNQzo4s6jJFN1JLu25xB+U28ETzK1Dsdw4iD4B5vimAWdxWAtsG/prY/BxdxbQ0fzll8eSxoHHgCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Thu, 20 Aug 2026 10:34:51 -0500</pubDate>
             <sparkle:version>17</sparkle:version>
@@ -35,14 +48,6 @@
             <sparkle:deltas>
                 <enclosure url="https://shawnbowers.github.io/app-updates/lookit/Lookit10-5.delta" sparkle:deltaFrom="5" length="406194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="86RfRUZkNg/i6no9oQJS8AzU9hCv8Daw2t5O9LiYyEJPpZSmbETJHorrIxY+V8decaHh3EFfiJG/PAxaadL2Dw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Mon, 27 Jul 2026 23:17:19 -0500</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://shawnbowers.github.io/app-updates/lookit/Lookit-0.1.0.zip" length="1909335" type="application/octet-stream" sparkle:edSignature="EOHVqBARJoonbin19q7a8lMUEjDoURr0ZqbSj4IvBHfTAyud/KukIvGtcw6E2JYbpfbXnkTUeF3ipO/YUSMEBQ=="/>
         </item>
     </channel>
 </rss>
