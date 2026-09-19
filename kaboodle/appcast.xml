@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--
+  Placeholder feed: valid, but advertises no versions, so Sparkle reads it as
+  "you're up to date" instead of erroring on a 404.
+
+  Do not hand-edit. Kaboodle's scripts/release.sh regenerates this file with
+  Sparkle's generate_appcast, which rebuilds the entire feed from the archives
+  sitting alongside it in this directory.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Kaboodle</title>
+        <link>https://shawnbowers.github.io/app-updates/kaboodle/appcast.xml</link>
+        <description>Updates for Kaboodle</description>
+        <language>en</language>
+    </channel>
+</rss>
