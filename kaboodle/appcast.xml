@@ -13,5 +13,13 @@
         <link>https://shawnbowers.github.io/app-updates/kaboodle/appcast.xml</link>
         <description>Updates for Kaboodle</description>
         <language>en</language>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 23 Sep 2026 08:56:35 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://shawnbowers.github.io/app-updates/kaboodle/Kaboodle-0.1.0.zip" length="5776449" type="application/octet-stream" sparkle:edSignature="uB2NosXq+hHV+pdUs89UbtuQwos3pw3NZA9XPBUbwS6iPc4p/13HMbeVt+6xh7mWvNLfIYTQMi0YqiAbK5SyDQ=="/>
+        </item>
     </channel>
 </rss>
